@@ -48,7 +48,14 @@ public class LoveNoteBook {
                     "breath. I don't need to be a superman as long as you will always be my biggest " +
                     "fan. -Heaven by Warrant",
             "I love the way you love me!",
-            "Wolves don't lose sleep over the opinions of sheep!"
+            "Wolves don't lose sleep over the opinions of sheep!",
+            "Love is an unconditional commitment to an imperfect person. To love somebody isn`t " +
+                    "just a strong feeling. It is a decision, a judgment, and a promise. " +
+                    " – Paulo Coelho",
+            "Love each other in moderation. That is the key to long-lasting love. Too fast is as " +
+                    "bad as too slow. ― William Shakespeare",
+            "To be your friend was all I ever wanted; to be your lover was all I ever dreamed. " +
+                        " - Valerie Lombardo"
 
 
             };
